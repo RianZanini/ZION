@@ -1,4 +1,4 @@
-# GPT Chatbot
+# ZION
 
 Chatbot simples em Python que conversa com a API da OpenAI pelo terminal.
 
